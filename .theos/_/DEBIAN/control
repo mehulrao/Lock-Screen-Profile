@@ -1,0 +1,10 @@
+Package: com.mehulrao.lsprofilepic
+Name: LS Profile Circle
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Adds a Profile Picture as on your LS!
+Maintainer: Mehul Rao
+Author: Mehul Rao
+Section: Tweaks
+Version: 1.0-1+debug
+Installed-Size: 120
