@@ -1,7 +1,7 @@
 Package: com.mehulrao.lsprofilepic
 Name: LS Profile Circle
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Adds a Profile Picture as on your LS!
 Maintainer: Mehul Rao
